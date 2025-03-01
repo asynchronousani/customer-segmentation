@@ -33,6 +33,3 @@ The dataset consists of customer information from a mall, including their income
 
 ## Contributing 🤝:
 Contributions to the project are welcome! Whether it's improving the clustering algorithm, enhancing data preprocessing techniques, or adding visualizations, feel free to submit pull requests.
-
-## Credits 🙏:
-This project was developed by Anirudh Varshney.
